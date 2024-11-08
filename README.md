@@ -1,4 +1,5 @@
-Banco Online - Projeto Acadêmico
+*Banco Online - Projeto Acadêmico*
+
 Este projeto simula um sistema de banco digital desenvolvido em Java com o framework Micronaut, como parte de um trabalho acadêmico. Ele oferece funcionalidades bancárias básicas, como criação de contas, consultas de saldo, transferências e histórico de transações, aplicando conhecimentos em Java, APIs REST, persistência de dados e boas práticas de desenvolvimento.
 
 Funcionalidades Principais
