@@ -1,0 +1,4 @@
+com\example\$QbankTest$Definition$Exec.class
+com\example\QbankTest.class
+META-INF\micronaut\io.micronaut.inject.BeanDefinitionReference\com.example.$QbankTest$Definition
+com\example\$QbankTest$Definition.class
